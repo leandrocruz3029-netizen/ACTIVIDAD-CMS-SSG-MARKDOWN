@@ -59,5 +59,6 @@ Ejemplos: Contentful, Strapi, Sanity, Ghost (usado como headless).
 ## Video explicativo CMS
 ([CMS](https://www.youtube.com/watch?v=OBJP4dvoS_I))
 
+
 ### enlace a la siguiente página SSG
 **[Ver documento sobre Generadores de Sitios Estáticos (ssg.md)](ssg.md)**
