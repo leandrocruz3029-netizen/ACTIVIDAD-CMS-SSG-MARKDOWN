@@ -16,3 +16,6 @@
 
 ## Video explicativo sobre SSG
 [SSG](https://www.youtube.com/watch?v=osWfEtbP_sk&pp=ygUydmlkZW8gZXhwbGljYXRpdm8gc29icmUgc3NnIFN0YXRpYyBTaXRlIEdlbmVyYXRvcik%3D)
+
+### enlace a la siguiente página CMS
+**[Ver documento sobre Generadores de Sitios Estáticos (cms.md)](cms.md)**
