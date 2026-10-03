@@ -5,9 +5,9 @@
 
 | Aspecto | Jekyll | Hugo | Astro |
 | :--- | :--- | :--- | :--- |
-| **Tecnología o lenguaje principal** | Ruby[cite: 5, 7] | Go / Golang[cite: 5, 7] | JavaScript / TypeScript[cite: 5, 7] |
-| **Formato utilizado para el contenido** | Markdown[cite: 7] | Markdown, Org-mode[cite: 7] | Markdown, MDX y componentes .astro[cite: 7] |
-| **Necesidad de instalación** | Ruby, RubyGems, GCC y Make[cite: 7] | Un único archivo binario sin dependencias externas[cite: 7, 8] | Node.js y gestor de paquetes (npm/pnpm)[cite: 7] |
+| **Tecnología o lenguaje principal** | Ruby | Go / Golang | JavaScript / TypeScript |
+| **Formato utilizado para el contenido** | Markdown | Markdown, Org-mode | Markdown, MDX y componentes .astro |
+| **Necesidad de instalación** | Ruby, RubyGems, GCC y Make | Un único archivo binario sin dependencias externas | Node.js y gestor de paquetes (npm/pnpm) |
 | **Funcionamiento básico** | Compila contenido en Markdown combinándolo con plantillas Liquid[cite: 7] | Compila plantillas y Markdown en paralelo mediante un ejecutable[cite: 7, 8] | Genera HTML estático e inyecta JS interactivo solo donde se necesita (arquitectura de islas)[cite: 7] |
 | **Usos habituales** | Blogs sencillos, webs personales y documentación en GitHub Pages[cite: 5, 8] | Webs masivas con gran volumen de páginas, blogs y documentación extensa[cite: 5, 8] | Portafolios modernos, aplicaciones web híbridas y sitios que combinan varios frameworks[cite: 5, 8] |
 | **Ventajas** | Integración nativa sin configuración previa en GitHub Pages; muy maduro y con gran comunidad[cite: 5, 8] | Velocidad de compilación extrema; instalación en un solo binario sin dependencias complejas[cite: 5, 8] | Permite componentes de React, Vue o Svelte; rendimiento superior enviando cero JS al cliente por defecto[cite: 5, 8] |
