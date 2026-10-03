@@ -56,7 +56,7 @@ Ejemplos: Contentful, Strapi, Sanity, Ghost (usado como headless).
 | **Publicación** | Se guarda el cambio en el panel y la base de datos lo sirve en tiempo real | Se hace un build del proyecto y se despliega la carpeta de salida a un servicio de hosting o CDN (vía Git/CI-CD) |
 | **Ejemplos** | WordPress, Joomla, Drupal, PrestaShop | Jekyll, Hugo, Astro, Eleventy, Gatsby |
 
-### Video explicativo CMS
+## Video explicativo CMS
 ([CMS](https://www.youtube.com/watch?v=OBJP4dvoS_I))
 
 ### enlace a la siguiente página SSG
