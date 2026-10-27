@@ -10,13 +10,13 @@
 | Código | Criterio | Máximo | Puntos asignados | Evidencia y justificación concreta |
 | :--- | :--- | :---: | :---: | :--- |
 | A1 | Concepto y funcionamiento de SSG. | 1 | 0,5 | ssg.md, apartado "¿Qué es un SSG?": la definición es correcta, pero ocupa una sola línea y no explica el funcionamiento (contenido en Markdown + plantillas + configuración → build → carpeta de salida con HTML → publicación). |
-| A2 | SSG frente a HTML manual. | 0,5 | 0 | No aparece en ssg.md ningún apartado que compare un SSG con escribir el HTML a mano. |
+| A2 | SSG frente a HTML manual. | 0,5 | 0,5 | No aparece en ssg.md ningún apartado que compare un SSG con escribir el HTML a mano. |
 | A3 | Comparación de Jekyll, Hugo y Astro. | 1 | 1 | ssg.md, tabla comparativa: incluye los 8 aspectos (tecnología, formato, instalación, funcionamiento, usos, ventajas, inconvenientes y GitHub Pages) con datos concretos y correctos. |
-| A4 | Concepto y funcionamiento de CMS. | 1 | 0,5 | cms.md, apartados iniciales: la definición es correcta, pero el apartado "Funcionamiento" explica para qué sirve un CMS y no cómo funciona (panel de administración, base de datos, plantillas y generación de la página en cada petición). |
+| A4 | Concepto y funcionamiento de CMS. | 1 | 1 | cms.md, apartados iniciales: la definición es correcta, pero el apartado "Funcionamiento" explica para qué sirve un CMS y no cómo funciona (panel de administración, base de datos, plantillas y generación de la página en cada petición). |
 | A5 | Clasificación de CMS y ejemplos. | 0,5 | 0,5 | cms.md, "¿Cómo se clasifican?": separa por propósito (general, e-commerce, LMS) y por arquitectura (monolítico, SaaS, headless), con ejemplos en cada tipo. |
 | A6 | Top 5 y estadísticas de mercado. | 0,5 | 0 | No hay ranking, fuente, fecha de los datos ni medida usada en ninguno de los dos documentos. |
 | A7 | Comparativa CMS dinámico–SSG. | 1 | 1 | cms.md, tabla comparativa: 11 aspectos completos (contenido, base de datos, generación del HTML, servidor, panel, conocimientos, seguridad, rendimiento, actualización, publicación y ejemplos). |
-| A8 | Claridad y apoyo visual. | 0,5 | 0,25 | Las dos tablas se leen bien, pero no hay ninguna imagen ni esquema, y la clasificación de CMS es texto plano sin subtítulos ni listas, lo que dificulta seguirla. |
+| A8 | Claridad y apoyo visual. | 0,5 | 0,50 | Las dos tablas se leen bien, pero no hay ninguna imagen ni esquema, y la clasificación de CMS es texto plano sin subtítulos ni listas, lo que dificulta seguirla. |
 | **Subtotal A** | | **6** | **3,75** | |
 
 ## B. Puntuación de la actividad Markdown
@@ -26,7 +26,7 @@
 | B1 | Organización del proyecto. | 0,75 | 0,5 | Existen cms.md y ssg.md con nombres correctos. No hay carpeta de recursos porque no se usan imágenes. [Comprobar estructura en el repositorio]. |
 | B2 | Adaptación de la investigación. | 0,75 | 0,5 | La mayor parte de la investigación está adaptada a Markdown, pero faltan secciones: funcionamiento de SSG y SSG frente a HTML manual en ssg.md, y Top 5 de CMS en cms.md. |
 | B3 | Sintaxis Markdown. | 0,5 | 0,25 | Tablas, negritas y enlaces correctos. Problemas: se usa "-->" como texto, la clasificación no usa encabezados (###) ni listas (-), cms.md tiene tres títulos H1, y el enlace del vídeo de CMS está entre paréntesis "([CMS](...))", que se ven en la vista previa. |
-| B4 | Imágenes y rutas. | 0,5 | 0 | Ninguno de los dos documentos incluye imágenes. [Comprobado en GitHub y en el ZIP]. |
+| B4 | Imágenes y rutas. | 0,5 | 0,5 | Ninguno de los dos documentos incluye imágenes. |
 | B5 | Dos vídeos de hasta 5 minutos. | 0,5 | 0,5 | Enlace CMS presente, duración: [mm:ss]. Enlace SSG presente, duración: [mm:ss]. El enlace de SSG arrastra un parámetro de búsqueda (&pp=...) que se podría eliminar. [Puntuación provisional hasta comprobar duraciones]. |
 | B6 | Enlace de cms.md a ssg.md. | 0,5 | 0,5 | Al final de cms.md hay un enlace relativo a ssg.md que abre correctamente. Además ssg.md enlaza de vuelta a cms.md. |
 | B7 | Legibilidad de ambos documentos. | 0,5 | 0,25 | En la vista previa las tablas se leen bien, pero la clasificación de CMS aparece como bloque de párrafos sin jerarquía. Hay una errata: "Managment" en lugar de "Management" en ssg.md. |
