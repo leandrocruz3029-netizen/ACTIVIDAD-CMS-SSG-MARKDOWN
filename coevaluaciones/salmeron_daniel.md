@@ -17,7 +17,7 @@
 | A6 | Top 5 y estadísticas de mercado. | 0,5 | 0 | No hay ranking, fuente, fecha de los datos ni medida usada en ninguno de los dos documentos. |
 | A7 | Comparativa CMS dinámico–SSG. | 1 | 1 | cms.md, tabla comparativa: 11 aspectos completos (contenido, base de datos, generación del HTML, servidor, panel, conocimientos, seguridad, rendimiento, actualización, publicación y ejemplos). |
 | A8 | Claridad y apoyo visual. | 0,5 | 0,50 | Las dos tablas se leen bien, pero no hay ninguna imagen ni esquema, y la clasificación de CMS es texto plano sin subtítulos ni listas, lo que dificulta seguirla. |
-| **Subtotal A** | | **6** | **3,75** | |
+| **Subtotal A** | | **6** | **5,75** | |
 
 ## B. Puntuación de la actividad Markdown
 
@@ -27,10 +27,10 @@
 | B2 | Adaptación de la investigación. | 0,75 | 0,5 | La mayor parte de la investigación está adaptada a Markdown, pero faltan secciones: funcionamiento de SSG y SSG frente a HTML manual en ssg.md, y Top 5 de CMS en cms.md. |
 | B3 | Sintaxis Markdown. | 0,5 | 0,25 | Tablas, negritas y enlaces correctos. Problemas: se usa "-->" como texto, la clasificación no usa encabezados (###) ni listas (-), cms.md tiene tres títulos H1, y el enlace del vídeo de CMS está entre paréntesis "([CMS](...))", que se ven en la vista previa. |
 | B4 | Imágenes y rutas. | 0,5 | 0,5 | Ninguno de los dos documentos incluye imágenes. |
-| B5 | Dos vídeos de hasta 5 minutos. | 0,5 | 0,5 | Enlace CMS presente, duración: [mm:ss]. Enlace SSG presente, duración: [mm:ss]. El enlace de SSG arrastra un parámetro de búsqueda (&pp=...) que se podría eliminar. [Puntuación provisional hasta comprobar duraciones]. |
+| B5 | Dos vídeos de hasta 5 minutos. | 0,5 | 0,5 | Enlace CMS presente, duración: [mm:ss]. Enlace SSG presente, duración: [mm:ss]. El enlace de SSG arrastra un parámetro de búsqueda (&pp=...) que se podría eliminar.. |
 | B6 | Enlace de cms.md a ssg.md. | 0,5 | 0,5 | Al final de cms.md hay un enlace relativo a ssg.md que abre correctamente. Además ssg.md enlaza de vuelta a cms.md. |
 | B7 | Legibilidad de ambos documentos. | 0,5 | 0,25 | En la vista previa las tablas se leen bien, pero la clasificación de CMS aparece como bloque de párrafos sin jerarquía. Hay una errata: "Managment" en lugar de "Management" en ssg.md. |
-| **Subtotal B** | | **4** | **2,5** | |
+| **Subtotal B** | | **4** | **3,5** | |
 
 ## C. Nota propuesta y valoración inicial
 
