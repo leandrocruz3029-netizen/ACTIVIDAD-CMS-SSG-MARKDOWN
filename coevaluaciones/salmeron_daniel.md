@@ -34,7 +34,7 @@
 
 ## C. Nota propuesta y valoración inicial
 
-- **Puntuación real A + B:** 6,25 / 10.
+- **Puntuación real A + B:** 8 / 10.
 
 **Justificación de la nota:**
 Las dos tablas comparativas (Jekyll/Hugo/Astro y CMS dinámico frente a SSG) están completas y obtienen la puntuación máxima, y la clasificación de CMS es correcta. La nota baja porque faltan tres contenidos de la investigación (funcionamiento de SSG, SSG frente a HTML manual y Top 5 de CMS), no hay imágenes y el formato Markdown de la clasificación es mejorable. La nota es provisional hasta confirmar la duración de los vídeos y la estructura del repositorio.
@@ -54,7 +54,7 @@ Las dos tablas comparativas (Jekyll/Hugo/Astro y CMS dinámico frente a SSG) est
 
 ## D. Respuesta y correcciones del propietario del proyecto
 
-**Cumplimenta:** [Nombre del propietario del repositorio].
+**Cumplimenta:** Leandro Cruz.
 
 | Propuesta | Respuesta y decisión razonada | Corrección aplicada y archivo | Commit |
 | :--- | :--- | :--- | :--- |
